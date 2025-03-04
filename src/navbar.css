@@ -1,0 +1,29 @@
+.logo {
+  font-size: 2.3rem;
+}
+
+.navbar {
+  margin: 0 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar a {
+  color: rgba(0, 0, 0, 0.685);
+  text-decoration: none;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+}
+
+.nav-links li {
+  margin: 0 1rem;
+}
+
+.nav-links a {
+  color: rgba(0, 0, 0, 0.685);
+  text-decoration: none;
+}
